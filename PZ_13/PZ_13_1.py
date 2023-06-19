@@ -23,3 +23,5 @@ moxovic[1] = bang
 print('Новая матрица :')
 for i in moxovic:
     print(*i)
+
+
